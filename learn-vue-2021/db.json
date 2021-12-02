@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Grocery Shopping",
+      "day": "2nd Dec 18.00",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "TypeScript Lesson",
+      "day": "2nd Dec 19.00",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Learn Mandarin with Duolingo",
+      "day": "2nd Dec 21.00",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Sleep",
+      "day": "3rd Dec 00.00",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
